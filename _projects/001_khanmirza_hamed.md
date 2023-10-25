@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Hamed Khanmirza
-description: Assistant Professor
-img: assets/img/mine.png
+title: Dr. Shamim Akter
+description:  Professor
+img: assets/img/supervisor.jpg
 importance: 1
 category: Director
 ---
