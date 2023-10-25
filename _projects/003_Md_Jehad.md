@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Md. Al-Jehad
+title: Md. Jehad
 description: BSc(Engg.), Ahsanullah University of Science & Technology
 img: #assets/img/mine.png
 importance: 4

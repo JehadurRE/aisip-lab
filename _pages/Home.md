@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://en.ce.kntu.ac.ir/'>Faculty of Computer Engineering</a><br><a href="en.kntu.ac.ir">K. N. Toosi University of Technology</a>
+subtitle: <a href='https://aust.edu/'>Department of Computer Science & Engineering</a><br><a href="aisip-lab.tech"> Ahsanullah University of Science & Technology</a>
 
 profile:
   align: right
