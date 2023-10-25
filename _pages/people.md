@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 description: Our Team
 nav: true
-display_categories: [Director, PHD, Msc, Student]
+display_categories: [Director, PHDt, Msct, Student]
 horizontal: false
 ---
 
